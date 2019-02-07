@@ -6,7 +6,7 @@ probability of admission based the scores from those two exams.</em>
 
 <strong>Files that I had to write code to:</strong>
 
-<em>plotData.m</em>- Function to plot 2D classification data
+<em>plotData.m</em>- Function to plot 2D classification data<br>
 <em>sigmoid.m</em>- Sigmoid Function
 <em>costFunction.m</em>- Logistic Regression Cost Function
 <em>predict.m</em>- Logistic Regression Prediction Function
