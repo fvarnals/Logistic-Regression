@@ -5,8 +5,8 @@ Determine each applicant’s chance of admission based on their results on two e
 probability of admission based the scores from those two exams.</em>
 
 <strong>Files that I had to write code to:</strong><br>
-<em>plotData.m</em>- Function to plot 2D classification data<br>
-<em>sigmoid.m</em>- Sigmoid Function<br>
-<em>costFunction.m</em>- Logistic Regression Cost Function<br>
-<em>predict.m</em>- Logistic Regression Prediction Function<br>
-<em>costFunctionReg.m</em>- Regularized Logistic Regression Cost<br>
+<em>plotData.m</em> - Function to plot 2D classification data<br>
+<em>sigmoid.m</em> - Sigmoid Function<br>
+<em>costFunction.m</em> - Logistic Regression Cost Function<br>
+<em>predict.m</em> - Logistic Regression Prediction Function<br>
+<em>costFunctionReg.m</em> - Regularized Logistic Regression Cost<br>
